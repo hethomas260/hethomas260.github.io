@@ -6,8 +6,6 @@ Hello! This is my page hosted on github.  I am getting back into programming for
 
 This is my list of to-dos and some notes of my progress against them
 
-```markdown
-Syntax highlighted code block
 
 ### Python
 
